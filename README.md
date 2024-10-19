@@ -33,6 +33,21 @@
    {
      "name": "您的样式名称",
      "description": "样式描述",
+     "floating_window": {
+       "background_color": "#000000",
+       "background_opacity": 0.8,
+       "border_color": "#FFFFFF",
+       "border_width": 2,
+       "border_radius": 10,
+       "width": 300,
+       "height": 100
+     },
+     "text": {
+       "font_family": "Arial",
+       "font_size": 16,
+       "font_color": "#FFFFFF",
+       "font_weight": "bold"
+     },
      "icons": {
        "ctrl": "ctrl.svg",
        "shift": "shift.svg",
