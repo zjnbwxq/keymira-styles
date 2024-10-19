@@ -37,7 +37,6 @@
        "ctrl": "ctrl.svg",
        "shift": "shift.svg",
        "alt": "alt.svg"
-       // ... 添加更多键位和对应的SVG文件名
      }
    }
    ```
